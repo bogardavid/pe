@@ -13,6 +13,7 @@ https://en.wikipedia.org/wiki/Portable_Executable#History
 - Very nice [drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Portable_Executable_32_bit_Structure_in_SVG_fixed.svg/800px-Portable_Executable_32_bit_Structure_in_SVG_fixed.svg.png) for the PE structure, which is useful for knowing offsets to any data field inside the PE.
 - Some technical details about potential uses for the PE sections , for example determining if the architecture is x86 or x64 ( and locating virtually anything via the drawing mentioned earlier).
 
+2)
 https://project-zero.issues.chromium.org/issues/42451002
 - A vulnerability confirmed and patched ( for a long time ) by Microsoft.
 - POC included, with a fairly detailed technical description.  
